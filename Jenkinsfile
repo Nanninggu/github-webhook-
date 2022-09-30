@@ -1,6 +1,6 @@
 REGION = 'ap-northeast-2'
 EKS_API = 'https://8A957BC790429F3390025B4F3E33538C.gr7.ap-northeast-2.eks.amazonaws.com'
-EKS_CLUSTER_NAME='teks-hanjin-example'
+EKS_CLUSTER_NAME='eks-hanjin-example'
 EKS_NAMESPACE='default'
 EKS_JENKINS_CREDENTIAL_ID='kubectl-deploy-credentials'
 ECR_PATH = '913292187539.dkr.ecr.ap-northeast-2.amazonaws.com'
